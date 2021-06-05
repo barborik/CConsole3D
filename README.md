@@ -6,4 +6,4 @@
 ## usage
 ```CConsole3D.exe <width> <height> <angle increment per iteration> <model.obj>```
 
-the model must have all faces triangulated, I have included some models in the [models](https://github.com/Barbo24/Console3D/tree/master/models) folder
+the model must have all faces triangulated, I have included some models in the [models](https://github.com/barborik/CConsole3D/tree/master/models) folder
